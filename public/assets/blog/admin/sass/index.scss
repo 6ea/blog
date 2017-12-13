@@ -1,0 +1,18 @@
+.content {
+	padding: 3rem;
+	font-size: 16px;
+	.select2-container {
+		margin: .25em 0;
+	}
+	.select2-container--default .select2-selection--multiple {
+		border-color: #ccc;
+		box-shadow: inset 0 1px 3px #ddd;
+    border-radius: 4px;
+  }
+  .option-inline label {
+  	display: inline-block;
+  }
+  legend {
+  	font-size: 14px;
+  }
+}

@@ -1,0 +1,5 @@
+.f-tac {
+	text-align: center;
+}
+.f-cb:after{display:block;clear:both;visibility:hidden;height:0;overflow:hidden;content:".";}
+.f-cb,.f-cbli li{zoom:1;}
